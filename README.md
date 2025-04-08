@@ -88,7 +88,7 @@ Click the links below to open the Google Colab notebooks for each part of the as
 
 ## Video Tutorials
 Watch the video walkthroughs for each part:
-[![YouTube Playlist](https://img.shields.io/badge/YouTube-Watch_Tutorials-red?logo=youtube)](https://youtube.com/playlist?list=YOUR_PLAYLIST_ID_HERE)
+[![YouTube Playlist](https://img.shields.io/badge/YouTube-Watch_Tutorials-red?logo=youtube)](https://www.youtube.com/playlist?list=PLGHkLcp2I_S-TFFP8lx-SUwuscYo-hWEy)
 
 ---
 
