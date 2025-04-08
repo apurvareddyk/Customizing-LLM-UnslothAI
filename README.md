@@ -1,7 +1,7 @@
 # LLM Fine-Tuning, Alignment, and Deployment with Unsloth
 
 ## Project Overview
-This repository contains code, Colab notebooks, and video tutorials (placeholder) demonstrating various techniques for fine-tuning, aligning, and deploying large language models (LLMs) using the **Unsloth** library for high-performance training.
+This repository contains code, Colab notebooks, and video tutorials demonstrating various techniques for fine-tuning, aligning, and deploying large language models (LLMs) using the **Unsloth** library for high-performance training.
 
 The project covers the following key workflows (corresponding to assignment parts A-G):
 - **A: Fine-tuning** open-weight LLMs for specific tasks (e.g., coding instruction following with Llama 3.1).
